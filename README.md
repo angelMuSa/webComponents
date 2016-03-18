@@ -1,8 +1,8 @@
-# angularTesting
+# webComponents
 
 **Generated from Angel Munoz**
-  - Testing app angular 1.5 with mocha, chai and sinon
   - App generated with hotTowel John Papa
+  - Create web components with ReactJs, Angular 1.5...
 
 ## Running App
 
